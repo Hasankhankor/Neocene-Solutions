@@ -6,28 +6,28 @@ export default function Projects() {
     const projects = [
         {
             id: 1,
-            name: 'Drowing room for family time ',
-            description: 'Badroom with a clean and comfortable design for your family. charming whit a modern design. ',
-            image: '/image/project3.jpg',
+            name: 'Neocene Solutions ',
+            description: ' Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs. ',
+            image: 'https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg',
             link: '',
         },
         {
             id: 2,
-            name: 'Kitchen look modern and clean',
-            description: 'kitchen look modern and clean. charming whit a modern design. ',
-            image: '/image/project2.jpg',
+            name: 'Neocene Solutions',
+            description: ' Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs. ',
+            image: 'https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg',
             link: '',
         },
         {
             id: 3,
-            name: 'Perfect living room for family time',
-            description: 'Drowing room with a clean and comfortable design for your family. charming whit a modern design. ',
-            image: '/image/project4.png',
+            name: 'Neocene Solutions',
+            description: ' Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.',
+            image: 'https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg',
         },
     ];
     return (
         <div className="">
-            <div className="bg-[url('/image/backgroundproject.jpg')] bg-center bg-cover ">
+            <div className="bg-[url('https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg')] bg-center bg-cover ">
                 <h1 className="container py-64 text-6xl font-semibold tracking-widest text-white ">OUR PROJECTS</h1>
             </div>
             <div className="container grid grid-cols-2 gap-8 py-8">

@@ -876,6 +876,9 @@ video {
 .border-t-2 {
   border-top-width: 2px;
 }
+.border-solid {
+  border-style: solid;
+}
 .border-gray-300 {
   --tw-border-opacity: 1;
   border-color: rgb(209 213 219 / var(--tw-border-opacity));
@@ -934,6 +937,9 @@ video {
 }
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+.bg-\[url\(\'https\:\/\/frdusa\.com\/wp-content\/uploads\/2017\/05\/DCR20\.jpg\'\)\] {
+  background-image: url('https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg');
 }
 .from-transparent {
   --tw-gradient-from: transparent var(--tw-gradient-from-position);

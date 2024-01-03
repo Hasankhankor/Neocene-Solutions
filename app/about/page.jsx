@@ -3,29 +3,28 @@ import { TbArrowUpRight } from "react-icons/tb"
 export default function About() {
     return (
         <div>
-            <div className="bg-[url('/image/about.jpg')] bg-center bg-cover ">
+            <div className="bg-[url('https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg')] bg-center bg-cover ">
                 <h1 className="container py-32 text-6xl font-semibold tracking-widest text-center text-white lg:py-64 lg:text-left ">WHO ARE WE?</h1>
 
             </div>
             <div className="container ">
                 <div className="py-4 lg:py-14">
-                    <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">We have great idea & Interior Design</h2>
+                    <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">We have great idea & mining Design</h2>
                     <p className="text-2xl font-medium lg:w-1/2">
-                        The Digimax interior design company is a company that provides interior design services for homes, offices, apartments, and others. We provide the best interior design services for you. We have a team that is experienced in the field of interior.
+                    Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                     </p>
                 </div>
                 <div className="items-center lg:flex gap-x-8">
                     <div className="w-full">
-                        <Image src="/image/gallery1123.jpg" width={700} height={700} alt="" className="" />
+                        <Image src="https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg" width={700} height={700} alt="" className="" />
                     </div>
                     <div className="">
                         <p className="pb-8 tracking-wide">
-                            We are an international Architects. We believe that today it is fundamental to totally rethink archi-tectural education. Confluence not only integrates new visions on society but also incorporates new methods and contemporary tools linked to creativity, production and communication. De-signed and handcrafted to hold and showcase my year two architecture portfolio, the unfolding box allows portfolio sheets…
+                        Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                             <br />
                             <br />
 
-                            We are an international Architects. We believe that today it is fundamental to totally rethink archi-tectural education. Confluence not only integrates new visions on society but also incorporates new methods and contemporary tools linked to creativity, production and communication.
-                            <br />
+                            Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                             <br />
                             <span className="text-xl font-extrabold tracking-tight">The backpiperARCH, we share a belief in the transformational power of people united in a common purpose.</span>
                         </p>
@@ -41,28 +40,28 @@ export default function About() {
                     <div className="grid gap-20 py-8 lg:grid-cols-3">
                         <div className="border-2 border-gray-500 ">
                             <div className="-m-0.5 p-4 text-center transition hover:-translate-y-3 hover:-translate-x-3 aspect-square bg-zinc-100 ">
-                                <Image src="/image/profile2.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
+                                <Image src="https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
                                 <h2 className="py-4 text-2xl font-semibold " >BUILDING SURVEYS</h2>
                                 <p className="text-sm text-gray-400">
-                                    Creativity is the ability to generate, create, or discover new ideas, solutions, and possibilities.
+                                Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                                 </p>
                             </div>
                         </div>
                         <div className="border-2 border-gray-500 ">
                             <div className="-m-0.5 p-4 text-center transition hover:-translate-y-3 hover:-translate-x-3 aspect-square bg-zinc-100 ">
-                                <Image src="/image/profile1.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
+                                <Image src="https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
                                 <h2 className="py-4 text-2xl font-semibold " >BUILDING SURVEYS</h2>
                                 <p className="text-sm text-gray-400">
-                                    Creativity is the ability to generate, create, or discover new ideas, solutions, and possibilities.
+                                Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                                 </p>
                             </div>
                         </div>
                         <div className="border-2 border-gray-500 ">
                             <div className="-m-0.5 p-4 text-center transition hover:-translate-y-3 hover:-translate-x-3 aspect-square bg-zinc-100 ">
-                                <Image src="/image/profile3.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
+                                <Image src="https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg" width={200} height={200} alt="" className="mx-auto rounded-full " />
                                 <h2 className="py-4 text-2xl font-semibold " >BUILDING SURVEYS</h2>
                                 <p className="text-sm text-gray-400">
-                                    Creativity is the ability to generate, create, or discover new ideas, solutions, and possibilities.
+                                Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
                                 </p>
                             </div>
                         </div>
