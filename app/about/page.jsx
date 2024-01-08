@@ -22,20 +22,17 @@ Collaboration: We thrive on collaboration, working closely with our clients to u
                     </div>
                     <div className="">
                     <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">Our Services</h2>
-                        <p className="pb-8 tracking-wide">
-                        Training: Elevate your team's skills with our comprehensive mineral exploration training programs.
-Property Evaluation: Trust our in-depth assessments to unlock the potential of mineral-rich properties.
+                    <p className="pb-8 tracking-wide">
+  Training: Elevate your team{'\''}s skills with our comprehensive mineral exploration training programs.
+  Property Evaluation: Trust our in-depth assessments to unlock the potential of mineral-rich properties.
+  <br />
+  Mapping and Survey Design: Precision-driven geological and geochemical mapping, coupled with expert survey design.
+  <br />
+  Drill Management and Core Logging: From planning to execution, we manage drilling operations and provide meticulous core logging services.
+  At Neocene Solutions, we don{'\''}t just explore minerals; we unearth opportunities. Join us on a journey where knowledge meets discovery, and together, we shape the future of mineral exploration.
+  <br />
+</p>
 
-                            <br />
-                            Mapping and Survey Design: Precision-driven geological and geochemical mapping, coupled with expert survey design.
-                            <br />
-
-Drill Management and Core Logging: From planning to execution, we manage drilling operations and provide meticulous core logging services.
-At Neocene Solutions, we don't just explore minerals; we unearth opportunities. Join us on a journey where knowledge meets discovery, and together, we shape the future of mineral exploration.
-
-                            <br />
-
-                        </p>
                         <a className="inline-flex items-center gap-1 px-6 py-3 text-sm text-white rounded-full shadow-lg bg-gray-950 hover:bg-gray-800 hover:ring-2 hover:ring-gray-950 ring-offset-2" href="">Read More <TbArrowUpRight className="text-xl" /> </a>
 
 
