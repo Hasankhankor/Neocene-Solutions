@@ -674,9 +674,6 @@ video {
 .ml-2 {
   margin-left: 0.5rem;
 }
-.ms-3 {
-  margin-inline-start: 0.75rem;
-}
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -713,12 +710,6 @@ video {
 .h-14 {
   height: 3.5rem;
 }
-.h-2 {
-  height: 0.5rem;
-}
-.h-2\.5 {
-  height: 0.625rem;
-}
 .h-3 {
   height: 0.75rem;
 }
@@ -736,12 +727,6 @@ video {
 }
 .w-1\/2 {
   width: 50%;
-}
-.w-2 {
-  width: 0.5rem;
-}
-.w-2\.5 {
-  width: 0.625rem;
 }
 .w-3 {
   width: 0.75rem;
@@ -929,17 +914,11 @@ video {
 .bg-opacity-60 {
   --tw-bg-opacity: 0.6;
 }
-.bg-\[url\(\'\/image\/about\.jpg\'\)\] {
-  background-image: url('/image/about.jpg');
-}
-.bg-\[url\(\'\/image\/backgroundproject\.jpg\'\)\] {
-  background-image: url('/image/backgroundproject.jpg');
+.bg-\[url\(\'https\:\/\/frdusa\.com\/wp-content\/uploads\/2017\/05\/DCR20\.jpg\'\)\] {
+  background-image: url('https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg');
 }
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-}
-.bg-\[url\(\'https\:\/\/frdusa\.com\/wp-content\/uploads\/2017\/05\/DCR20\.jpg\'\)\] {
-  background-image: url('https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg');
 }
 .from-transparent {
   --tw-gradient-from: transparent var(--tw-gradient-from-position);

@@ -9,9 +9,11 @@ export default function About() {
             </div>
             <div className="container ">
                 <div className="py-4 lg:py-14">
-                    <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">We have great idea & mining Design</h2>
+                    <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">What Sets Us Apart</h2>
                     <p className="text-2xl font-medium lg:w-1/2">
-                    Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
+                    Innovation: We leverage the latest technologies and methodologies to stay at the forefront of mineral exploration.
+Integrity: Our approach is built on transparency, honesty, and a steadfast commitment to ethical practices in every facet of our operations.
+Collaboration: We thrive on collaboration, working closely with our clients to understand their unique needs and tailor our services accordingly.
                     </p>
                 </div>
                 <div className="items-center lg:flex gap-x-8">
@@ -19,14 +21,20 @@ export default function About() {
                         <Image src="https://frdusa.com/wp-content/uploads/2017/05/DCR20.jpg" width={700} height={700} alt="" className="" />
                     </div>
                     <div className="">
+                    <h2 className="p-4 text-3xl font-semibold text-center lg:p-20 lg:text-5xl">Our Services</h2>
                         <p className="pb-8 tracking-wide">
-                        Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
+                        Training: Elevate your team's skills with our comprehensive mineral exploration training programs.
+Property Evaluation: Trust our in-depth assessments to unlock the potential of mineral-rich properties.
+
                             <br />
+                            Mapping and Survey Design: Precision-driven geological and geochemical mapping, coupled with expert survey design.
                             <br />
 
-                            Neocene Solutions is dedicated to delivering an extensive array of services tailored to meet your specific needs.
+Drill Management and Core Logging: From planning to execution, we manage drilling operations and provide meticulous core logging services.
+At Neocene Solutions, we don't just explore minerals; we unearth opportunities. Join us on a journey where knowledge meets discovery, and together, we shape the future of mineral exploration.
+
                             <br />
-                            <span className="text-xl font-extrabold tracking-tight">The backpiperARCH, we share a belief in the transformational power of people united in a common purpose.</span>
+
                         </p>
                         <a className="inline-flex items-center gap-1 px-6 py-3 text-sm text-white rounded-full shadow-lg bg-gray-950 hover:bg-gray-800 hover:ring-2 hover:ring-gray-950 ring-offset-2" href="">Read More <TbArrowUpRight className="text-xl" /> </a>
 
